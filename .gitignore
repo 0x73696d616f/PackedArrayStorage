@@ -1,0 +1,14 @@
+# directories
+**/node_modules
+**/out
+**/cache
+**/bin
+broadcast/
+
+# files
+script/data/*
+!script/data/*.sol
+*.env
+*.log
+.DS_Store
+lcov.info
